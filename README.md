@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/d5ps966hq1wdbu5y?svg=true)](https://ci.appveyor.com/project/KaterinaVoroshilova/bddtask1pageobject)
